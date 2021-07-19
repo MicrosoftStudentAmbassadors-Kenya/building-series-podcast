@@ -20,11 +20,11 @@
                 "url": "/about",
                 "style": "link"
             },
-            // {
-            //     "label": "Sponsoring",
-            //     "url": "/advertising",
-            //     "style": "link"
-            // }
+            {
+                "label": "Sponsoring",
+                "url": "/advertising",
+                "style": "link"
+            }
         ],
         "has_secondary_nav": true,
         "secondary_nav_links": [
@@ -56,11 +56,11 @@
                 "url": "/subscribe",
                 "style": "link"
             },
-            // {
-            //     "label": "Advertising",
-            //     "url": "/advertising",
-            //     "style": "link"
-            // }
+            {
+                 "label": "Advertising",
+                 "url": "/advertising",
+                 "style": "link"
+            }
         ],
         "has_secondary_nav": true,
         "secondary_nav_links": [
@@ -69,16 +69,16 @@
                 "url": "/about",
                 "style": "link"
             },
-            // {
-            //     "label": "Terms",
-            //     "url": "/terms-conditions",
-            //     "style": "link"
-            // },
-            // {
-            //     "label": "Privacy Policy",
-            //     "url": "/privacy-policy",
-            //     "style": "link"
-            // }
+            {
+                "label": "Terms",
+                "url": "/terms-conditions",
+                "style": "link"
+            },
+            {
+                "label": "Privacy Policy",
+                "url": "/privacy-policy",
+                "style": "link"
+            }
         ],
         "has_tertiary_nav": false,
         "has_social": true,
