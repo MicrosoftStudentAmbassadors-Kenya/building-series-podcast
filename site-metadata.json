@@ -43,7 +43,7 @@
     },
     "footer": {
         "logo": "images/violet-celery.png",
-        "logo_alt": "Podcaster logo",
+        "logo_alt": "Building Series logo",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
