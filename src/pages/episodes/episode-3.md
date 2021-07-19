@@ -1,5 +1,5 @@
 ---
-title: Episode 3 - Cur Ipse Pythagoras Et Aegyptum Lustravit
+title: Episode 3 - The brains behind the most efficient tracker in the market, Zed Engineering Limited.
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
