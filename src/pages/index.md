@@ -5,8 +5,7 @@ sections:
     title: Welcome to Building Series Podcast
     subtitle: Optional hero section subtitle
     content: >-
-      A podcast for Web developers interested in building Jamstack websites.
-      Hosted by Miles Tone.
+      A podcast showcasing student ambassadors showcase amazing work they are involved in.
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
