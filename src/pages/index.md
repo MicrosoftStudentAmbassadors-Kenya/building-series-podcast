@@ -58,7 +58,7 @@ sections:
             icon_position: right
         actions_align: center
         image: images/icon-1.svg
-        image_alt: Apple Podcasts icon
+        image_alt: Google Podcasts icon
         image_position: top
         image_align: center
         image_has_padding: true
