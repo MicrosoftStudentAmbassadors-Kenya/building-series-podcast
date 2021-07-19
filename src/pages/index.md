@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to Building Series Podcast
-    subtitle: Optional hero section subtitle
+    subtitle: 
     content: >-
       A podcast showcasing student's amazing work they are involved in.
     actions:
