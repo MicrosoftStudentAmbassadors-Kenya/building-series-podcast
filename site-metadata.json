@@ -1,7 +1,7 @@
 {
     "layout_type": "boxed",
     "style": "bold",
-    "palette": "red",
+    "palette": "blue",
     "mode": "dark",
     "base_font": "sans-serif",
     "header": {
@@ -57,9 +57,9 @@
                 "style": "link"
             },
             {
-                 "label": "Advertising",
-                 "url": "/advertising",
-                 "style": "link"
+                "label": "Advertising",
+                "url": "/advertising",
+                "style": "link"
             }
         ],
         "has_secondary_nav": true,
