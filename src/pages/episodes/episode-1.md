@@ -16,7 +16,7 @@ episode_embed_html: >-
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387283889&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 seo:
   title: Episode 1 - Building Data Science East Africa with Harun Mwenda.
-  description: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
+  description: Harun founded Data Science East Africa Community to democratize knowledge. Listen in as he tells us of his journey, filled with nuggets of wisdom.
   extra:
     - name: 'og:type'
       value: article
