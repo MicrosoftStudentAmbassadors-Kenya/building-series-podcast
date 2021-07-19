@@ -3,9 +3,8 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to Building Series Podcast
-    subtitle: 
-    content: >-
-      A podcast showcasing student's amazing work they are involved in.
+    subtitle: null
+    content: A podcast showcasing student's amazing work they are involved in.
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
@@ -57,43 +56,11 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/icon-1.svg
+        image: images/EN_Google_Podcasts_Badge_2x.png
         image_alt: Google Podcasts icon
         image_position: top
         image_align: center
         image_has_padding: true
-    #   - title: Spotify
-    #     title_align: center
-    #     content_align: center
-    #     actions:
-    #       - label: Subscribe
-    #         url: /thank-you
-    #         style: secondary
-    #         has_icon: true
-    #         icon: arrow-right
-    #         icon_position: right
-    #     actions_align: center
-    #     image: images/icon-2.svg
-    #     image_alt: Spotify icon
-    #     image_position: top
-    #     image_align: center
-    #     image_has_padding: true
-    #   - title: Overcast
-    #     title_align: center
-    #     content_align: center
-    #     actions:
-    #       - label: Subscribe
-    #         url: /thank-you
-    #         style: secondary
-    #         has_icon: true
-    #         icon: arrow-right
-    #         icon_position: right
-    #     actions_align: center
-    #     image: images/icon-3.svg
-    #     image_alt: Overcast icon
-    #     image_position: top
-    #     image_align: center
-    #     image_has_padding: true
     grid_cols: one
     grid_gap_horiz: medium
     grid_gap_vert: medium
