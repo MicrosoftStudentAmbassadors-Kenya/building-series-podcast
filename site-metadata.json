@@ -25,7 +25,7 @@
         "secondary_nav_links": [
             {
                 "label": "Subscribe",
-                "url": "/subscribe",
+                "url": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL21zYW1iYXNzYWRvcnNLRS9mZWVkLnhtbA?sa=X&ved=0CAMQ4aUDahcKEwiwvs3g-u_xAhUAAAAAHQAAAAAQBA",
                 "style": "primary"
             }
         ],
