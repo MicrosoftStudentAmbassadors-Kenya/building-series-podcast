@@ -43,3 +43,8 @@ seo:
 template: post
 ---
 
+Team REWEBA, is the first team in Africa to win the Imagine Cup Competition. The team won USD75,000, a mentoring session with Microsoft CEO Satya Nadella, and a USD50,000 Microsoft Azure Grant.
+
+Join us as we have a discussion with them on their journey and what next for REWEBA (Remote Well Baby). Their product highlights how tech can enable real-world community solutions for marginalised communities in Kenya who have access barriers to crucial infant healthcare. Read more about their project at https://news.microsoft.com/en-xm/2021/06/16/team-reweba-from-kenya-named-the-2021-imagine-cup-winner/.
+
+Do you have any questions for them? Send them to us via - https://forms.office.com/r/ek6TnFXLr3
