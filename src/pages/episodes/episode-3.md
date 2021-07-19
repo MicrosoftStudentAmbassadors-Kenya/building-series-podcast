@@ -1,8 +1,7 @@
 ---
 title: Episode 3 - The brains behind the most efficient tracker in the market, Zed Engineering Limited.
 subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
+  Meet Zed Engineering, a trio that created a tracking device (Astra), that monitors potential malicious activity from your vehicle or motorbike.
 date: '2020-09-03'
 categories:
   - src/data/categories/season-1.yaml
