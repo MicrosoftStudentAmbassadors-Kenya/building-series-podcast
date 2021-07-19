@@ -1,8 +1,7 @@
 ---
 title: Episode 1 - Building Data Science East Africa with Harun Mwenda.
 subtitle: >-
-  Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
-  videre, nihil tranquilli potest.
+  Harun founded Data Science East Africa Community to democratize knowledge. Listen in as he tells us of his journey, filled with nuggets of wisdom.
 date: '2020-07-15'
 categories:
   - src/data/categories/season-1.yaml
