@@ -1,8 +1,7 @@
 ---
 title: 'Episode 2 - Meet Imagine Cup World Finalists, Team CafriLearn'
 subtitle: >-
-  Idemque diviserunt naturam hominis in animum et corpus. Si enim ad populum me
-  vocas, eum.
+  Meet Imagine Cup World finalists, Humphry and Lillian. Learn how they are making education accessible through their product: Makini.
 date: '2020-08-14'
 categories:
   - src/data/categories/season-1.yaml
