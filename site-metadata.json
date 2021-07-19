@@ -6,7 +6,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "Building Series",
-        "logo": "images/logo.svg",
+        "logo": "images/robust-oak.png",
         "logo_alt": "Podcaster logo",
         "has_primary_nav": true,
         "primary_nav_links": [
