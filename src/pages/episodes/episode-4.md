@@ -16,7 +16,7 @@ episode_embed_html: >-
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387283889&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 seo:
   title: Episode 4 - Meet Team REWEBA, Imagine Cup World Champions
-  description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+  description: 'Team REWEBA, is the first team in Africa to win the Imagine Cup Competition. Join us as we have a discussion with them on their journey and what next for REWEBA (Remote Well Baby).'
   extra:
     - name: 'og:type'
       value: article
