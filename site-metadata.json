@@ -63,11 +63,6 @@
                 "label": "About",
                 "url": "/about",
                 "style": "link"
-            },
-            {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
-                "style": "link"
             }
         ],
         "has_tertiary_nav": false,
