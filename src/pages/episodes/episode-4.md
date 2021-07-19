@@ -1,8 +1,9 @@
 ---
 title: Episode 4 - Meet Team REWEBA, Imagine Cup World Champions
 subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
+  Team REWEBA, is the first team in Africa to win the Imagine Cup Competition. The team won USD75,000, a mentoring session with Microsoft CEO Satya Nadella, and a USD50,000 Microsoft Azure Grant.
+
+Join us as we have a discussion with them on their journey and what next for REWEBA (Remote Well Baby).
 date: '2020-09-17'
 categories:
   - src/data/categories/season-1.yaml
