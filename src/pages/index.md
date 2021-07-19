@@ -5,7 +5,7 @@ sections:
     title: Welcome to Building Series Podcast
     subtitle: Optional hero section subtitle
     content: >-
-      A podcast showcasing student ambassadors showcase amazing work they are involved in.
+      A podcast showcasing student's amazing work they are involved in.
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
