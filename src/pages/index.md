@@ -50,7 +50,8 @@ sections:
         content_align: center
         actions:
           - label: Subscribe
-            url: /thank-you
+            url: >-
+              https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL21zYW1iYXNzYWRvcnNLRS9mZWVkLnhtbA?sa=X&ved=0CAMQ4aUDahcKEwiwvs3g-u_xAhUAAAAAHQAAAAAQBA
             style: secondary
             has_icon: true
             icon: arrow-right
