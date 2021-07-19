@@ -33,4 +33,5 @@ template: page
 
 Podcast for Microsoft Learn Student Ambassador Community Kenya
 
-This podcast is an initiative by 
+This podcast is an initiative by Imagine Cup community Kenya where student ambassadors showcase amazing work they are involved in.
+Follow us for amazing features.
