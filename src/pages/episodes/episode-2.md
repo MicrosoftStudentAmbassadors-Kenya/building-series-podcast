@@ -15,7 +15,7 @@ episode_embed_html: >-
   allow="autoplay"
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387283889&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 seo:
-  title: 'Episode 2 - Meet Imagine Cup World Finalists, Team CafriLearn'
+  title: 'Episode 2 - Building CafriLearn with Lillian Patience and Humphry Shikunzi'
   description: Meet Imagine Cup World finalists, Humphry and Lillian. Learn how they are making education accessible through their product - Makini.
   extra:
     - name: 'og:type'
