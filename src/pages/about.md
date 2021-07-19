@@ -31,4 +31,6 @@ template: page
 
 ![Me doing live podcast](/images/about.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis commodo lacus at commodo dictum. Nam tempus erat nec magna blandit, vitae fringilla nisl mattis. Aenean laoreet, lectus sed pretium volutpat, dui ante consectetur leo, a volutpat diam est vel sapien. Nullam sodales tristique metus, nec semper elit finibus eu. Suspendisse ornare est sit amet massa aliquam tincidunt. Vivamus feugiat elit ull
+Podcast for Microsoft Learn Student Ambassador Community Kenya
+
+This podcast is an initiative by 
