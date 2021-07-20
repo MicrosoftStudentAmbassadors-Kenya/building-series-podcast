@@ -8,7 +8,7 @@ subtitle: >-
 date: '2020-09-03'
 categories:
   - src/data/categories/season-1.yaml
-thumb_image: images/post-3.jpg
+thumb_image: images/WhatsApp Image 2021-06-02 at 09.27.34.jpeg
 thumb_image_alt: Episode 3 placeholder image
 image: images/post-3.jpg
 image_alt: Episode 3 placeholder image
