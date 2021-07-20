@@ -3,7 +3,7 @@ title: Episode 1 - Building Data Science East Africa with Harun Mwenda.
 subtitle: >-
   Harun founded Data Science East Africa Community to democratize knowledge.
   Listen in as he tells us of his journey, filled with nuggets of wisdom.
-date: '2021-04-15'
+date: '2021-04-13'
 categories:
   - src/data/categories/season-1.yaml
 thumb_image: images/post-1.jpg
