@@ -8,7 +8,7 @@ categories:
   - src/data/categories/season-1.yaml
 thumb_image: images/WhatsApp Image 2021-05-04 at 3.33.02 PM.jpeg
 thumb_image_alt: Podcast 2 placeholder image
-image: images/post-2.jpg
+image: images/perpetual-stegosaurus.jpeg
 image_alt: Podcast 2 placeholder image
 image_position: right
 episode_embed_html: >-
