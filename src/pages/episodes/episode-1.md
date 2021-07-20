@@ -6,7 +6,7 @@ subtitle: >-
 date: '2021-04-13'
 categories:
   - src/data/categories/season-1.yaml
-thumb_image: images/post-1.jpg
+thumb_image: images/panoramic-zucchini.png
 thumb_image_alt: Podcast 1 placeholder image
 image: images/building DS EA - google podcasts.png
 image_alt: Podcast 1 placeholder image
