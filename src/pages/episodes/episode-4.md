@@ -1,7 +1,9 @@
 ---
-title: Episode 4 - Meet Team REWEBA, Imagine Cup World Champions
+title: 'Episode 4 - Meet Team REWEBA, Imagine Cup World Champions'
 subtitle: >-
-  Team REWEBA, is the first team in Africa to win the Imagine Cup Competition. Join us as we have a discussion with them on their journey and what next for REWEBA (Remote Well Baby).
+  Team REWEBA, is the first team in Africa to win the Imagine Cup Competition.
+  Join us as we have a discussion with them on their journey and what next for
+  REWEBA (Remote Well Baby).
 date: '2020-09-17'
 categories:
   - src/data/categories/season-1.yaml
@@ -10,13 +12,12 @@ thumb_image_alt: Episode 4 placeholder image
 image: images/post-4.jpg
 image_alt: Episode 4 placeholder image
 image_position: right
-episode_embed_html: >-
-  <iframe width="100%" height="166" scrolling="no" frameborder="no"
-  allow="autoplay"
-  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387283889&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 seo:
-  title: Episode 4 - Meet Team REWEBA, Imagine Cup World Champions
-  description: 'Team REWEBA, is the first team in Africa to win the Imagine Cup Competition. Join us as we have a discussion with them on their journey and what next for REWEBA (Remote Well Baby).'
+  title: 'Episode 4 - Meet Team REWEBA, Imagine Cup World Champions'
+  description: >-
+    Team REWEBA, is the first team in Africa to win the Imagine Cup Competition.
+    Join us as we have a discussion with them on their journey and what next for
+    REWEBA (Remote Well Baby).
   extra:
     - name: 'og:type'
       value: article
