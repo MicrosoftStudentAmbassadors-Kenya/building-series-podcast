@@ -7,7 +7,7 @@ subtitle: >-
 date: '2020-09-17'
 categories:
   - src/data/categories/season-1.yaml
-thumb_image: images/post-4.jpg
+thumb_image: images/happy-triceratops.jpeg
 thumb_image_alt: Episode 4 placeholder image
 image: images/WhatsApp Image 2021-07-10 at 1.29.23 PM.jpeg
 image_alt: Episode 4 placeholder image
