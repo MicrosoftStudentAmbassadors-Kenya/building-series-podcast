@@ -4,7 +4,7 @@ subtitle: >-
   Team REWEBA, is the first team in Africa to win the Imagine Cup Competition.
   Join us as we have a discussion with them on their journey and what next for
   REWEBA (Remote Well Baby).
-date: '2020-06-17'
+date: '2020-03-17'
 categories:
   - src/data/categories/season-1.yaml
 thumb_image: images/happy-triceratops.jpeg
