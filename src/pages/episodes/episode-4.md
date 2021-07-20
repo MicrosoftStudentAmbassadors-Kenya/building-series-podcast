@@ -9,7 +9,7 @@ categories:
   - src/data/categories/season-1.yaml
 thumb_image: images/post-4.jpg
 thumb_image_alt: Episode 4 placeholder image
-image: images/post-4.jpg
+image: images/WhatsApp Image 2021-07-10 at 1.29.23 PM.jpeg
 image_alt: Episode 4 placeholder image
 image_position: right
 seo:
