@@ -12,10 +12,11 @@ image: images/building DS EA - google podcasts.png
 image_alt: Podcast 1 placeholder image
 image_position: left
 episode_embed_html: >-
-  <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/1E318uT1QgE" title="YouTube video player"
-  frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="Building Data Science East Africa with Harun Mbaabu"
+  allowtransparency="true" height="300" width="100%" style="border: none;
+  min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player"
+  src="https://www.podbean.com/player-v2/?i=sy274-1009881-pb&from=embed&square=1&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=300"
+  allowfullscreen=""></iframe>
 seo:
   title: Episode 1 - Building Data Science East Africa with Harun Mwenda.
   description: >-
