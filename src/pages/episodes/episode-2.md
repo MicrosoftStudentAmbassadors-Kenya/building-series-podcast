@@ -3,7 +3,7 @@ title: Episode 2 - Building CafriLearn with Lillian Patience and Humphry Shikunz
 subtitle: >-
   Meet Imagine Cup World finalists, Humphry and Lillian. Learn how they are
   making education accessible through their product: Makini.
-date: '2020-08-14'
+date: '2020-08-05'
 categories:
   - src/data/categories/season-1.yaml
 thumb_image: images/WhatsApp Image 2021-05-04 at 3.33.02 PM.jpeg
