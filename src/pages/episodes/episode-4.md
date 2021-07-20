@@ -42,6 +42,7 @@ seo:
       value: images/post-4.jpg
       relativeUrl: true
 template: post
+author: src/data/team/person-k9q0vlp01.json
 ---
 
 Team REWEBA, is the first team in Africa to win the Imagine Cup Competition. The team won USD75,000, a mentoring session with Microsoft CEO Satya Nadella, and a USD50,000 Microsoft Azure Grant.
