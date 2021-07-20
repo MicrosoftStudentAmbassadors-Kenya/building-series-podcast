@@ -5,7 +5,7 @@ title: >-
 subtitle: >-
   Meet Zed Engineering, a trio that created a tracking device (Astra), that
   monitors potential malicious activity from your vehicle or motorbike.
-date: '2020-09-03'
+date: '2021-06-03'
 categories:
   - src/data/categories/season-1.yaml
 thumb_image: images/WhatsApp Image 2021-06-02 at 09.27.34.jpeg
