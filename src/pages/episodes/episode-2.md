@@ -1,7 +1,8 @@
 ---
-title: 'Episode 2 - Building CafriLearn with Lillian Patience and Humphry Shikunzi'
+title: Episode 2 - Building CafriLearn with Lillian Patience and Humphry Shikunzi
 subtitle: >-
-  Meet Imagine Cup World finalists, Humphry and Lillian. Learn how they are making education accessible through their product: Makini.
+  Meet Imagine Cup World finalists, Humphry and Lillian. Learn how they are
+  making education accessible through their product: Makini.
 date: '2020-08-14'
 categories:
   - src/data/categories/season-1.yaml
@@ -11,12 +12,16 @@ image: images/post-2.jpg
 image_alt: Podcast 2 placeholder image
 image_position: right
 episode_embed_html: >-
-  <iframe width="100%" height="166" scrolling="no" frameborder="no"
-  allow="autoplay"
-  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387283889&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+  <iframe title="Building CafriLearn with Lillian Patience and Humphry Shikunzi"
+  allowtransparency="true" height="300" width="100%" style="border: none;
+  min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player"
+  src="https://www.podbean.com/player-v2/?i=g8u5z-104e2bd-pb&from=embed&square=1&share=1&download=1&skin=f6f6f6&btn-skin=8bbb4e&size=300"
+  allowfullscreen=""></iframe>
 seo:
-  title: 'Episode 2 - Building CafriLearn with Lillian Patience and Humphry Shikunzi'
-  description: Meet Imagine Cup World finalists, Humphry and Lillian. Learn how they are making education accessible through their product - Makini.
+  title: Episode 2 - Building CafriLearn with Lillian Patience and Humphry Shikunzi
+  description: >-
+    Meet Imagine Cup World finalists, Humphry and Lillian. Learn how they are
+    making education accessible through their product - Makini.
   extra:
     - name: 'og:type'
       value: article
