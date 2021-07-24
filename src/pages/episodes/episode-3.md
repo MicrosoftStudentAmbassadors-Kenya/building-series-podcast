@@ -53,13 +53,7 @@ seo:
 template: post
 ---
 
-
-
-Sonia: How has the MLSA program impacted your success?
-Joy: I have been exposed to many resources and skills, one being the ability to connect and interact with people. It's made it very easy for us to sell our product. Microsoft Learn's vast resources and benefits like Azure for storage, have come in handy too.
-
-Sonia: What challenges did you face working as a team during the pandemic?
-Stephen: Due to geographical differences and the technicalities of the product, progress was slower. Also, shipping components from China got slackened due to the lockdowns and the pandemic.
+ the product, progress was slower. Also, shipping components from China got slackened due to the lockdowns and the pandemic.
 
 Sonia: Is there a reason why you shipped your hardware from China?
 Stephen: Shipping costs from China are relatively cheaper. There is also more variety in the Chinese market because that's where most of the hardware is fabricated.
