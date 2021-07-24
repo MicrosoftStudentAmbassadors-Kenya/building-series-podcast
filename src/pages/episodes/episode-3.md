@@ -53,10 +53,7 @@ seo:
 template: post
 ---
 
- What led you to start Zed Engineering?
-Brian: Vehicle and motorcycle theft has been a problem for decades everywhere and there have been trackers made to combat this. Normal trackers did not have real-time notifications, and we got ahead of that by creating an android app that links our tracker to your phone. When your vehicle is in motion you'll get notified.
-
-We also have a battery protection feature. People's batteries get stolen from cars in garages and get exchanged for old ones. The battery protection system was tested by one of our technicians from campus and he was able to detect battery theft from his car. We are glad we were able to solve a major problem.
+to solve a major problem.
 
 Sonia: Do you customize your trackers for every customer you get?
 Brian: No. They are more or less the same for all types of vehicles.
