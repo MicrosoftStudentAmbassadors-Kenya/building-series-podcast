@@ -23,7 +23,7 @@ sections:
     has_border: true
     video_embed_html: >-
       <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/Ge3EPp3tPR4?autoplay=1"></iframe>
+      src="https://www.youtube.com/embed/Ge3EPp3tPR4?autoplay=0"></iframe>
   - type: blog_feed_section
     title: Latest Episodes
     blog_feed_cols: three
