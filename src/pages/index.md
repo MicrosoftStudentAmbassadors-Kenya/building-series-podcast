@@ -22,9 +22,10 @@ sections:
     background_image_opacity: 20
     has_border: true
     video_embed_html: >-
-      <iframe
-      src="https://drive.google.com/file/d/1whKp_0z0nIzsBNXAwdSkTakPUDvRY87x/preview"
-      width="640" height="480" allow="autoplay"></iframe>
+      <iframe width="560" height="315"
+      src="https://www.youtu.be/embed/Ge3EPp3tPR4" title="YouTube video player"
+      frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - type: blog_feed_section
     title: Latest Episodes
     blog_feed_cols: three
