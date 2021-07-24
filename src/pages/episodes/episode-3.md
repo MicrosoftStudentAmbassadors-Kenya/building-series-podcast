@@ -53,12 +53,7 @@ seo:
 template: post
 ---
 
-Meet Zed Engineering, a trio that created a tracking device (Astra), that monitors potential malicious activity from your vehicle or motorbike. We got to interview the team of creatives and innovators from Dedan Kimathi University of Technology, in our 3rd building series with this amazing product that will blow your mind.
-
-Joy @wht_snow - Marketing and Public Relations Microsoft Learn Student Ambassador
-Stephen @stinekaguri- Software Development, Server Management
-Brian @blasius_brian - Deals with Firmware for microcontrollers, Designs electronics, and runs simulations
-Sonia: What led you to start Zed Engineering?
+ What led you to start Zed Engineering?
 Brian: Vehicle and motorcycle theft has been a problem for decades everywhere and there have been trackers made to combat this. Normal trackers did not have real-time notifications, and we got ahead of that by creating an android app that links our tracker to your phone. When your vehicle is in motion you'll get notified.
 
 We also have a battery protection feature. People's batteries get stolen from cars in garages and get exchanged for old ones. The battery protection system was tested by one of our technicians from campus and he was able to detect battery theft from his car. We are glad we were able to solve a major problem.
