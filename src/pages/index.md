@@ -23,7 +23,7 @@ sections:
     has_border: true
     video_embed_html: >-
       <iframe width="560" height="315"
-      src="https://www.youtu.be/embed/Ge3EPp3tPR4" title="YouTube video player"
+      src="https://www.youtube/embed/Ge3EPp3tPR4" title="YouTube video player"
       frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - type: blog_feed_section
