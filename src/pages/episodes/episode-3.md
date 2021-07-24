@@ -53,13 +53,7 @@ seo:
 template: post
 ---
 
-to solve a major problem.
 
-Sonia: Do you customize your trackers for every customer you get?
-Brian: No. They are more or less the same for all types of vehicles.
-
-Sonia: What's the inspiration behind the name "Zed Engineering"?
-Joy: There is a very funny story behind it because last year we had chosen a name for our company but we didn’t have the funds to register it. Luckily this year we got the money but unfortunately, the name had already been taken by another company. So we chose from a list of names and went with ZED.
 
 Sonia: How has the MLSA program impacted your success?
 Joy: I have been exposed to many resources and skills, one being the ability to connect and interact with people. It's made it very easy for us to sell our product. Microsoft Learn's vast resources and benefits like Azure for storage, have come in handy too.
