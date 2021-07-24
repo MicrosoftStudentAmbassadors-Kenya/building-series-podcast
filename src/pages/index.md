@@ -21,6 +21,10 @@ sections:
     background_image_size: cover
     background_image_opacity: 20
     has_border: true
+    video_embed_html: >-
+      <iframe
+      src="https://drive.google.com/file/d/1whKp_0z0nIzsBNXAwdSkTakPUDvRY87x/preview"
+      width="640" height="480" allow="autoplay"></iframe>
   - type: blog_feed_section
     title: Latest Episodes
     blog_feed_cols: three
