@@ -79,9 +79,9 @@ sections:
     background_image_opacity: 10
   - type: form_section
     content: >-
-      ## Ask A Question
+      ## Contact Us
 
-      Want to be featured in the next episode?
+      Want to be featured in the next episode? Or know someone who should? 
 
       Send us an email at: bethany@studentambassadors.com
     content_align: left
