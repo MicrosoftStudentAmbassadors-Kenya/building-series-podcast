@@ -86,6 +86,14 @@ sections:
 
       Send us an email at: bethany@studentambassadors.com
     content_align: left
+    actions:
+          - label: Subscribe
+            url: >-
+              https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL21zYW1iYXNzYWRvcnNLRS9mZWVkLnhtbA?sa=X&ved=0CAMQ4aUDahcKEwiwvs3g-u_xAhUAAAAAHQAAAAAQBA
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
     # form_position: right
     # form_width: fifty
     # form_layout: inline
