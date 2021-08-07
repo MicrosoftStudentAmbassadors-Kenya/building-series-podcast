@@ -29,7 +29,6 @@ seo:
 template: page
 ---
 
-![Me doing live podcast](/images/about.png)
 
 Podcast for Microsoft Learn Student Ambassador Community Kenya
 
