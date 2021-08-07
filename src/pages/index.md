@@ -83,6 +83,8 @@ sections:
 
       We're OK with any kind of questions and will answer as many as we possibly
       can.
+
+      Send us an email at: bethany@studentambassadors.com
     content_align: left
     # form_position: right
     # form_width: fifty
