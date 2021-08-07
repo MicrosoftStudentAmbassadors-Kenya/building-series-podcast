@@ -84,7 +84,6 @@ sections:
       Want to be featured in the next episode? Or know someone who should? 
       Have any questions for the team, or maybe you want to join us?
 
-      Send us an email at: bethany@studentambassadors.com
     content_align: left
     actions:
           - label: Send us an email
