@@ -81,8 +81,7 @@ sections:
     content: >-
       ## Ask A Question
 
-      We're OK with any kind of questions and will answer as many as we possibly
-      can.
+      Want to be featured in the next episode?
 
       Send us an email at: bethany@studentambassadors.com
     content_align: left
